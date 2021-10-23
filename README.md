@@ -29,7 +29,7 @@ $ python3 Bluetooth.py
 <p>You must have "l2ping" util on your linux machine (it installed as default on Kali Linux).</p>
 <p>YOU MUST SCAN AND ATTACK BEFORE SOMEONE CONNECTS TO THE TARGET!!!</p>
 
-## How's it's tested
+## Devices Used
 Kali Linux as attacker, and JY-25 Bluetooth Speaker as target.
 
 ## HOw to use
