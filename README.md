@@ -9,15 +9,18 @@
 
 ## Warning
 <p align="center">This project was created only for fun purposes and personal use.</p>
+Mr. Bastard 
 
-THIS SOFTWARE IS MADE BY MR.BASTARD.
+Facebook
+   https://www.facebook.com/samrat.katwal.5
+
 ## To install
 
 
 ```
 $ sudo apt update
 $ sudo apt install python3
-$ cd Bluetooth DOS/
+$ cd btdos/
 $ python3 Bluetooth.py
 ```
 ### NOte
