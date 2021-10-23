@@ -9,7 +9,7 @@
 
 ## Warning
 <p align="center">This project was created only for fun purposes and personal use.</p>
-Mr. Bastard 
+Mr. Bastard -
 Samrat Katwal
 
 Facebook
