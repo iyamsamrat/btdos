@@ -3,7 +3,7 @@
   <a href="https://python.org">
   </a>
 </p>
-<p align="center">Script made for attacking Bluetooth Devices By Samrat Katwal. </p>
+<p align="center">Attack BT with this tool easily. </p>
 
 
 
