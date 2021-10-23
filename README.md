@@ -14,7 +14,7 @@ Mr. Bastard
 Facebook
    https://www.facebook.com/samrat.katwal.5
 
-## To install
+## To execute
 
 
 ```
