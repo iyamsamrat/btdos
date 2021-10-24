@@ -24,7 +24,7 @@ def main():
 
         target_addr = input('Enter Mac address of bluetooth device > ')
 
-        if len(target_addr) < 1:
+        if len(target_addr) < 16:
             print('[!] ERROR: Enter the Mac address NOOB')
             exit(0)
 
