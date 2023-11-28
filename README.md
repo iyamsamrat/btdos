@@ -1,9 +1,12 @@
 ```
- ____    _    ____ _____  _    ____  ____
-| __ )  / \  / ___|_   _|/ \  |  _ \|  _ \
-|  _ \ / _ \ \___ \ | | / _ \ | |_) | | | |
-| |_) / ___ \ ___) || |/ ___ \|  _ <| |_| |
-|____/_/   \_\____/ |_/_/   \_\_| \_\____/
+ _______  _______  _______  _______  _______ _________
+(  ____ \(  ___  )(       )(  ____ )(  ___  )\__   __/
+| (    \/| (   ) || () () || (    )|| (   ) |   ) (   
+| (_____ | (___) || || || || (____)|| (___) |   | |   
+(_____  )|  ___  || |(_)| ||     __)|  ___  |   | |   
+      ) || (   ) || |   | || (\ (   | (   ) |   | |   
+/\____) || )   ( || )   ( || ) \ \__| )   ( |   | |   
+\_______)|/     \||/     \||/   \__/|/     \|   )_(
 ```
 <h1 align="center">Bluetooth Denial of service</h1>
 <p align="center">
@@ -15,12 +18,11 @@
 
 
 ## Warning
-<p align="center">This project was created only for fun purposes and personal use.</p>
+<p align="center">This project was created only for fun purposes.</p>
 <p>
-Mr. Bastard -
 Samrat Katwal
 Facebook
-   https://www.facebook.com/samrat.katwal.5
+   https://www.facebook.com/profile.php?id=100094518872931
 </p>
 ## To execute
 
